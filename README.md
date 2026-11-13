@@ -1,5 +1,7 @@
 # Handheld Task Manager
 
+<img width="1099" height="733" alt="image" src="https://github.com/user-attachments/assets/7a5e03c3-e399-45ef-bd2f-6f08e5a6bdc4" />
+
 A touch- and controller-first task manager for Windows handhelds (ROG Ally, Legion Go, MSI Claw,
 Steam Deck running Windows, or any PC with an Xbox-style pad). WPF, .NET 8, no NuGet dependencies.
 Sibling project to Handheld Explorer and built on the same input and theming code.
